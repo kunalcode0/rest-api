@@ -1,0 +1,87 @@
+[
+    {
+        "name":"I-Phone 11",
+        "price":40000,
+        "rating":"4.7",
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"I-Phone 13",
+        "price":60000,
+        "rating":"4.9",
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"Noise Smart Watch",
+        "price":1700,
+        "rating":"4.2",
+        "feature":true,
+        "company":"Noise"
+    },
+    {
+        "name":"I-Phone 13 pro Back-Cover",
+        "price":200,
+        "rating":"4.0",
+        "feature":true,
+        "company":"Tronts"
+    },
+    {
+        "name":"Samsung Galaxy S10 plus",
+        "price":32000,
+        "rating":"4.4",
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"Boat Ear Buds pro",
+        "price":2400,
+        "rating":"4.3",
+        "feature":true,
+        "company":"Boat"
+    },
+    {
+        "name":"Samsung Galaxy Note 20 ultra",
+        "price":78000,
+        "rating":"4.7",
+        "feature":true,
+        "company":"Samsung"
+    },
+    {
+        "name":" OnePlus 10 pro",
+        "price":44000,
+        "rating":"4.8",
+        "feature":true,
+        "company":"OnePlus"
+    },
+    {
+        "name":"MI 10 Lite",
+        "price":18000,
+        "rating":"4.7",
+        "feature":true,
+        "company":"MI"
+    },
+    {
+        "name":" OnePlus 8 pro",
+        "price":25000,
+        "rating":"4.7",
+        "feature":true,
+        "company":"OnePlus"
+    },
+    {
+        "name":"Boat EarPhones",
+        "price":400,
+        "rating":"4.7",
+        "feature":true,
+        "company":"Boat"
+    },
+    {
+        "name":"Lenovo ThinkPad Pro",
+        "price":56000,
+        "rating":"4.4",
+        "feature":true,
+        "company":"Lenovo"
+    }
+    
+]
